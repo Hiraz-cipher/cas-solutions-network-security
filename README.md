@@ -19,7 +19,6 @@ main branch networks, as the brief requires.
 | Port security | `SW-DEV`, interface Fa0/3 | Port security is enabled, violation mode is restrict, and the maximum is 2 MAC addresses |
 | ACL | `R-Colombo` | Extended access lists 110–113 and 120–123 control traffic between subnets |
 | Firewall | Kandy branch | A Cisco ASA 5506-X firewall protects the Kandy network |
-| VPN | [If configured, describe it here. Otherwise remove this row] | |
 
 ## Testing
 | Test | Expected result | Result |
