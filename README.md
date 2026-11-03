@@ -27,9 +27,7 @@ main branch networks, as the brief requires.
 | Log in with a user not in the local database | Access denied (`% Login invalid`) | Pass |
 | Check syslog configuration (`show running-config \| include logging`) | Logging to 10.1.1.10 | Pass |
 | Check port security on SW-DEV Fa0/3 (`show port-security interface`) | Enabled, secure-up, restrict | Pass |
-| Ping between IT (PC-12) and DEV (PC-18) | [Expected result] | [Result] |
-| Ping from HR (PC-10) to Management (PC-11) | [Expected result] | [Result] |
-| Ping from Matara (PC-02) to Colombo (192.168.10.116) | [Expected result] | [Result] |
+
 
 Fill in each result from your own test, then remove any row you can't confirm.
 
